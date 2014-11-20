@@ -15,9 +15,6 @@
             "Nikoms\\FailLover\\Tests\\" : "tests/mocks"
         }
     },
-    "require": {
-        "phpunit/phpunit": "4.2.*"
-    },
     "require-dev": {
         "mikey179/vfsStream": "1.3.*"
     }
